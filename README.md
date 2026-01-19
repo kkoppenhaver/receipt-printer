@@ -4,6 +4,8 @@ A Python receipt printer agent that runs an HTTP server accepting print requests
 
 Built for capturing ideas on paper via [Retool](https://retool.com) or any HTTP client.
 
+![Example receipt](images/example-receipt.jpg)
+
 ## Features
 
 - **ESC/POS rendering** - Generates proper thermal printer commands with text wrapping
