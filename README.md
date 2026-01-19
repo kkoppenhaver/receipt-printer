@@ -36,8 +36,8 @@ pip install idea-print
 ### From source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/idea-print.git
-cd idea-print
+git clone https://github.com/kkoppenhaver/receipt-printer.git
+cd receipt-printer
 python -m venv .venv
 source .venv/bin/activate
 pip install -e ".[dev]"
