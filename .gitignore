@@ -40,3 +40,6 @@ htmlcov/
 *.bin
 dedupe.db
 receipt.bin
+
+.DS_Store
+
